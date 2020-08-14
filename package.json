@@ -1,0 +1,17 @@
+{
+  "name": "magnanotas",
+  "version": "1.0.0",
+  "description": "Online Notes",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass main.scss style.css -w"
+  },
+  "author": "Cristian Chiaburu",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
